@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug Go Program",
+            "type": "go",
+            "request": "launch",
+            "mode": "debug",
+            "program": "${workspaceFolder}/src",
+            "cwd": "${workspaceFolder}/src",
+            "env": {
+                "GO_ENV": "dev"
+            },
+            "showLog": true
+        }
+    ]
+}
