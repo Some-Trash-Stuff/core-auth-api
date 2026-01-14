@@ -1,7 +1,7 @@
 package configs
 
 import (
-	"core-auth-api/helper"
+	"github.com/Some-Trash-Stuff/infra-helper/configs"
 )
 
 type AppSettings struct {
@@ -15,5 +15,5 @@ type AppSettings struct {
 }
 
 func Load() AppSettings {
-	return helper.Load[AppSettings]()
+	return configs.Load[AppSettings]()
 }
