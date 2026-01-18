@@ -1,7 +1,5 @@
-github.com/Some-Trash-Stuff/infra-helper v0.1.1 h1:yGCD1GXIDz1ZbSkls4THhO75WZuRkIKJoB0YRirHZiQ=
-github.com/Some-Trash-Stuff/infra-helper v0.1.1/go.mod h1:VtaacjOZFUQImaSIoURCmj1kJm9PZdgZkHnXlTpammE=
-github.com/Some-Trash-Stuff/infra-helper v0.1.4 h1:tOH89UP/oizvLZZq3Q6KMZPLxY46636ZvMouvbKH/qQ=
-github.com/Some-Trash-Stuff/infra-helper v0.1.4/go.mod h1:VtaacjOZFUQImaSIoURCmj1kJm9PZdgZkHnXlTpammE=
+github.com/dev-bitchens/infra-helper v0.1.5 h1:IOTlxBLfdW2ppoQewPSJ5J0seTxzUL1A6m2sbMM3C+0=
+github.com/dev-bitchens/infra-helper v0.1.5/go.mod h1:bnJAZp4jZP3FGU7FcRwWayyuSoBlLDV935e6UICN2IM=
 github.com/go-chi/chi/v5 v5.2.3 h1:WQIt9uxdsAbgIYgid+BpYc+liqQZGMHRaUwp0JUcvdE=
 github.com/go-chi/chi/v5 v5.2.3/go.mod h1:L2yAIGWB3H+phAw1NxKwWM+7eUH/lU8pOMm5hHcoops=
 github.com/golang-jwt/jwt/v5 v5.3.0 h1:pv4AsKCKKZuqlgs5sUmn4x8UlGa0kEVt/puTpKx9vvo=
